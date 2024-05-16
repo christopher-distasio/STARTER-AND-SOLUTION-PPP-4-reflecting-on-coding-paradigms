@@ -1,3 +1,7 @@
+
+# Note: the solution code from the video for OOP-practice.py is found in a separate branch in this repo.
+
+
 # Watto needs a new system for organizing his inventory of podracers. 
 # Help him do this by implementing an Object Oriented solution according to the following criteria.
 
