@@ -14,15 +14,16 @@ print(flatten_and_sort(["c", ["d"], ["e", "f"], "l"]))
 
 
 ??? flatten_and_sort(array):
-	arr = []
-	??? item in array:
-		??? i in item:
-				arr.append(i)
+  arr = []
+  ??? item in array:
+    ??? i in item:
+      arr.append(i)
 ??? sorted(arr)
 
 print(flatten_and_sort(["c", ["d"], ["e", "f"], "l"]))
 
 
+#Note: you may encounter indentation errors in error messages
 
 
 '''
