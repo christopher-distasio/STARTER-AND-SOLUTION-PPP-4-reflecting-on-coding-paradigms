@@ -1,11 +1,26 @@
 # Implement a function that will flatten and sort an array of integers in ascending order, and which adheres to a functional programming paradigm.
 
+#VERSION 1 - Totally blank
 
 
 
 
 
 
+print(flatten_and_sort(["c", ["d"], ["e", "f"], "l"]))
+
+
+#VERSION 2 - Starter code in "jigsaw" style ... try to guess/replace the ???'s with the missing keyword (and use clues from errors when you run this file with python functional-practice.py (or python3 for Mac))
+
+
+??? flatten_and_sort(array):
+	arr = []
+	??? item in array:
+		??? i in item:
+				arr.append(i)
+??? sorted(arr)
+
+print(flatten_and_sort(["c", ["d"], ["e", "f"], "l"]))
 
 
 
