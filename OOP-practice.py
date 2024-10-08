@@ -1,7 +1,7 @@
 
 # Note: the solution code from the video for OOP-practice.py is found in a separate branch in this repo.
 
-#VERSION 1 - Totally on your own
+#VERSION 1 - Totally blank
 
 
 # Watto needs a new system for organizing his inventory of podracers. 
@@ -30,7 +30,7 @@
 
 
 
-#VERSION 2 - Jigsaw activity
+#VERSION 2 - Starter code in "jigsaw" style ... try to guess/replace the ???'s with the missing keyword (and use clues from errors when you run this file with python OOP-practice.py (or python3 for Mac))
 
 # Watto needs a new system for organizing his inventory of podracers. 
 # Help him do this by implementing an Object Oriented solution according to the following criteria.
